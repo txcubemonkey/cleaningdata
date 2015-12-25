@@ -22,6 +22,7 @@ Expected Directory Structure:
 * 'test/y_test.txt': Test labels.
 * 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
+
 # Script Files
 * run_analysis.R
 * load_training_sets.R
